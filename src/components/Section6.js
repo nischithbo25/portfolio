@@ -111,7 +111,7 @@ function Section6() {
             {links.linkedin && (
               <div className="col-5 d-flex justify-content-center">
                 <a href={links.linkedin} className="social-icon">
-                  <LinkedInLogo className="border rounded" />
+                  <LinkedInLogo />
                 </a>
               </div>
             )}
@@ -127,7 +127,7 @@ function Section6() {
             {links.gmail && (
               <div className="col-5 d-flex justify-content-center">
                 <a href={links.gmail} className="social-icon">
-                  <GmailLogo className="border rounded" />
+                  <GmailLogo />
                 </a>
               </div>
             )}
