@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Engineering Intern",
+    "company": "Commvault Systems",
+    "from": "May 2024",
+    "to": "Jan 2025",
+    "location": "Titon Falls, New Jersey",
+    "summary": "Developed an AI-powered log analysis tool using Vertex AI to reduce troubleshooting time and improve issue accuracy. Optimized log processing, reducing data volume by 70%, and designed secure log masking. Created a security tool using Shell and PowerShell scripts to identify over 100 exposed credentials across multiple machines.",
+    "skills": [
+      "Java",
+      "Python",
+      "Azure Machine Learning",
+      "Cloud Security",
+      "C++",
+      "DevOps"
+    ],
+    "jobDescription": [
+      "Designed an AI-powered log analysis tool using Vertex AI for identifying root causes of job failures. The system processes 300+ daily requests, reducing troubleshooting time and improving accuracy in issue identification.",
+      "Optimized log processing by implementing smart parsing and filtering, reducing data volume by 70%, and designed secure log masking to protect sensitive information.",
+      "Created a security tool using Shell and PowerShell scripts to query databases for passwords and scan logs across multiple machines, identifying over 100 instances of exposed credentials and encrypted password loggings."
+    ]
+  },
+  {
+    "title": "Software Development Engineer In Test",
+    "company": "Commvault Systems",
+    "from": "Jan 2021",
+    "to": "Jul 2023",
+    "location": "Bengaluru, India",
+    "summary": "Specialized in building and optimizing automation frameworks using Java and Python to enhance software quality and system reliability. Automated critical testing processes, including auto-scaling verifications for Azure and AWS. Developed a full-stack test management application to improve scheduling and reporting efficiency. Implemented Infrastructure as Code (IaC) to streamline cloud resource management, reducing manual efforts by 60%. Contributed as a Subject Matter Expert, resolving complex issues and improving team productivity.",
+    "skills": [
+      "Java",
+      "Python",
+      "Selenium",
+      "JUnit",
+      "JMeter",
+      "Azure",
+      "Terraform",
+      "Ansible",
+      "DevOps"
+    ],
+    "jobDescription": [
+      "Developed Java automation frameworks and performed manual testing to enhance the quality and reliability of the Virtual Server Agent (VSA) for virtualization backups and recovery.",
+      "Automated the verification of auto-scaling for Azure and AWS (EC2), conducting performance and load testing to ensure accurate scaling, optimized resource usage, and effective idle agent cleanup.",
+      "Developed AutoCenter, a Java web application managing 2000+ test cases using Spring Boot (backend) and React (frontend) to improve test scheduling, reporting, and monitoring capabilities.",
+      "Implemented Infrastructure as Code (IaC) using Terraform and Ansible to automate VM and cloud resource management on Azure and AWS, reducing manual intervention by 60% and improving cost efficiency.",
+      "Resolved 30+ critical issues as a Subject Matter Expert (SME) for Microsoft Hyper-V and Azure solutions, enhancing system reliability and customer satisfaction.",
+      "Mentored interns in test automation, planning, and best practices, boosting team productivity."
+    ]
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "Commvault Systems",
+    "from": "Jan 2020",
+    "to": "Dec 2020",
+    "location": "Bengaluru, India",
+    "summary": "Designed and implemented a hybrid testing framework that combined Selenium UI tests with SDK-based validations, significantly reducing redundancy in test cases and improving overall test coverage. This framework minimized code duplication, facilitating easier maintenance and leading to a more scalable and efficient automation pipeline.",
+    "skills": [
+      "Java",
+      "Python",
+      "Selenium",
+      "Azure",
+      "RestAssured",
+      "PowerShell",
+      "REST API"
+    ],
+    "jobDescription": [
+      "Designed a hybrid testing framework combining Selenium UI tests with SDK-based validations, improving coverage and reducing code duplication across 600+ automated test cases.",
+      "Optimized Azure cloud resource utilization, achieving a 60% cost reduction by developing Java-based automation scripts and leveraging PowerShell for resource monitoring, alerting, and report consolidation.",
+      "Built and maintained a REST API test automation framework using RestAssured and TestNG, seamlessly integrated into CI/CD pipelines to ensure robust backend testing and smooth deployments."
+    ]
+  }
+]
