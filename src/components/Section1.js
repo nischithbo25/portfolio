@@ -36,14 +36,14 @@ function Section1() {
         />
 
         {/* Explore Profile Button */}
-        <div className="mb-4 d-none d-md-block">
+        <div className="mb-4 d-none d-lg-block">
           <a className="custom-btn btn custom-link fs-6" href="#section_2">
             Explore my Profile
           </a>
         </div>
 
         {/* Resume Button for Mobile */}
-        <p className="mb-4 d-block d-md-none">
+        <p className="mb-4 d-block d-lg-none">
           <a
             className="custom-btn btn custom-link border bg-light"
             href={profileData.resume} // Direct link from the JSON file
