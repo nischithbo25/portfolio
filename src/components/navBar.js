@@ -11,7 +11,7 @@ function NavBar() {
       <nav className="navbar navbar-expand-lg navbar-custom" id="nav-bar">
         <div className="container navbar-brand-wrapper">
           {/* Brand/Logo */}
-          <a href="/" className="navbar-brand mx-auto mx-lg-0">
+          <a href="/portfolio" className="navbar-brand mx-auto mx-lg-0">
             Nischith B O
           </a>
 
