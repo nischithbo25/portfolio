@@ -4,8 +4,8 @@
     "company": "Commvault Systems",
     "from": "May 2024",
     "to": "Jan 2025",
-    "location": "Titon Falls, New Jersey",
-    "summary": "Developed an AI-powered log analysis tool using Vertex AI to reduce troubleshooting time and improve issue accuracy. Optimized log processing, reducing data volume by 70%, and designed secure log masking. Created a security tool using Shell and PowerShell scripts to identify over 100 exposed credentials across multiple machines.",
+    "location": "Tinton Falls, New Jersey",
+    "summary": "Engineered a scalable AI-powered log analysis tool using Vertex AI and Python to diagnose job failures and improve cloud-based solutions. Built a PCA-based Threat Detection system in Azure ML Studio and Synapse Analytics to monitor 10,000+ daily delete transactions, optimizing query performance and automating pipelines. Created a security tool using Bash and PowerShell scripts to identify over 400 exposed credentials across multiple machines.",
     "skills": [
       "Java",
       "Python",
@@ -15,9 +15,9 @@
       "DevOps"
     ],
     "jobDescription": [
-      "Designed an AI-powered log analysis tool using Vertex AI for identifying root causes of job failures. The system processes 300+ daily requests, reducing troubleshooting time and improving accuracy in issue identification.",
-      "Optimized log processing by implementing smart parsing and filtering, reducing data volume by 70%, and designed secure log masking to protect sensitive information.",
-      "Created a security tool using Shell and PowerShell scripts to query databases for passwords and scan logs across multiple machines, identifying over 100 instances of exposed credentials and encrypted password loggings."
+      "Engineered a scalable AI-powered log analysis tool using Vertex AI and Python to diagnose job failures, processing 300+ requests daily to enhance cloud solution reliability.",
+      "Built a PCA-based Threat Detection system in Azure ML Studio and Synapse Analytics to monitor 10,000+ daily delete transactions in Azure Storage, optimizing query performance with KQL.",
+      "Automated the identification of exposed credentials using Bash and PowerShell scripts on Linux environments, scanning databases and logs across multiple machines to uncover over 400 instances of exposed credentials."
     ]
   },
   {
@@ -26,7 +26,7 @@
     "from": "Jan 2021",
     "to": "Jul 2023",
     "location": "Bengaluru, India",
-    "summary": "Specialized in building and optimizing automation frameworks using Java and Python to enhance software quality and system reliability. Automated critical testing processes, including auto-scaling verifications for Azure and AWS. Developed a full-stack test management application to improve scheduling and reporting efficiency. Implemented Infrastructure as Code (IaC) to streamline cloud resource management, reducing manual efforts by 60%. Contributed as a Subject Matter Expert, resolving complex issues and improving team productivity.",
+    "summary": "Developed and optimized Selenium and Java automation frameworks to improve software reliability and reduce regression testing time by 40%. Automated Azure and AWS auto-scaling verifications. Built AutoCenter, a test management application, and implemented Infrastructure as Code (IaC) to streamline cloud resource management and reduce manual intervention by 60%. Resolved critical issues as a Subject Matter Expert (SME) for Microsoft Hyper-V and Azure solutions.",
     "skills": [
       "Java",
       "Python",
@@ -39,12 +39,12 @@
       "DevOps"
     ],
     "jobDescription": [
-      "Developed Java automation frameworks and performed manual testing to enhance the quality and reliability of the Virtual Server Agent (VSA) for virtualization backups and recovery.",
-      "Automated the verification of auto-scaling for Azure and AWS (EC2), conducting performance and load testing to ensure accurate scaling, optimized resource usage, and effective idle agent cleanup.",
-      "Developed AutoCenter, a Java web application managing 2000+ test cases using Spring Boot (backend) and React (frontend) to improve test scheduling, reporting, and monitoring capabilities.",
-      "Implemented Infrastructure as Code (IaC) using Terraform and Ansible to automate VM and cloud resource management on Azure and AWS, reducing manual intervention by 60% and improving cost efficiency.",
-      "Resolved 30+ critical issues as a Subject Matter Expert (SME) for Microsoft Hyper-V and Azure solutions, enhancing system reliability and customer satisfaction.",
-      "Mentored interns in test automation, planning, and best practices, boosting team productivity."
+      "Developed and optimized Selenium and Java automation frameworks, improving the Virtual Server Agent (VSA) reliability and reducing regression testing time by 40% for virtualization backup and recovery solutions, fully integrated with Jenkins CI/CD pipelines.",
+      "Automated the verification of auto-scaling functionality for Azure and AWS (EC2), executing performance and load testing using JMeter to ensure efficient resource usage and optimal scaling.",
+      "Built AutoCenter, a Java and JavaScript-based web application managing 5000+ test cases, significantly improving test scheduling, reporting, and real-time monitoring.",
+      "Implemented Infrastructure as Code (IaC) using Terraform and Ansible for automating virtual machine and cloud resource management on Azure and AWS, reducing manual intervention by 60% and enhancing cost efficiency.",
+      "Served as a Subject Matter Expert (SME) for Microsoft Hyper-V and Azure solutions, resolving 30+ critical issues and conducting POC sessions that improved system reliability and customer satisfaction.",
+      "Mentored interns on test automation methodologies and best practices, fostering improved productivity and technical proficiency within the team."
     ]
   },
   {
@@ -53,7 +53,7 @@
     "from": "Jan 2020",
     "to": "Dec 2020",
     "location": "Bengaluru, India",
-    "summary": "Designed and implemented a hybrid testing framework that combined Selenium UI tests with SDK-based validations, significantly reducing redundancy in test cases and improving overall test coverage. This framework minimized code duplication, facilitating easier maintenance and leading to a more scalable and efficient automation pipeline.",
+    "summary": "Designed and implemented a hybrid testing framework combining Selenium UI tests with SDK-based validations, increasing test coverage and reducing redundancy. Optimized Azure cloud resource utilization and reduced costs by 60% through automation scripts and PowerShell tools for monitoring and reporting.",
     "skills": [
       "Java",
       "Python",
@@ -64,9 +64,9 @@
       "REST API"
     ],
     "jobDescription": [
-      "Designed a hybrid testing framework combining Selenium UI tests with SDK-based validations, improving coverage and reducing code duplication across 600+ automated test cases.",
-      "Optimized Azure cloud resource utilization, achieving a 60% cost reduction by developing Java-based automation scripts and leveraging PowerShell for resource monitoring, alerting, and report consolidation.",
-      "Built and maintained a REST API test automation framework using RestAssured and TestNG, seamlessly integrated into CI/CD pipelines to ensure robust backend testing and smooth deployments."
+      "Designed and implemented a hybrid testing framework combining Selenium UI tests with SDK-based validations, improving test coverage and reducing code duplication across 600+ automated test cases.",
+      "Optimized Azure cloud resource utilization, achieving a 60% cost reduction by automating resource management with PowerShell and Java-based scripts, improving resource monitoring, alerting, and report consolidation.",
+      "Developed and maintained a REST API test automation framework using RestAssured and TestNG, seamlessly integrating it into CI/CD pipelines to ensure robust backend testing and smooth deployment processes."
     ]
   }
 ]
